@@ -1,0 +1,14 @@
+lion 10 surabaya
+lion 3 medan
+lion 2 palembang
+00 00 00
+citilink 2 batam
+citilink 4 denpasar
+00 00 00
+garuda 10 makasar
+garuda 10 surabaya
+garuda 7 bandung
+garuda 10 bandung
+00
+sriwijaya 20 makasar
+sriwijaya 1 makasar
