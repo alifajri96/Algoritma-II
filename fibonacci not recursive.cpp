@@ -28,7 +28,6 @@ int iteration_fibonacci(int n)
 
 int main()
 {
-int i;
 int angka;
 printf("Masukan angka nya ");
 scanf("%d", &angka);
