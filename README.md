@@ -5,6 +5,9 @@ Algoritma Pemrograman II
 - contoh2
 - contoh3
 
-...
-font bold
-...
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
