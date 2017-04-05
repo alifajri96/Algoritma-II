@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
@@ -47,3 +48,8 @@ int main (){
   fclose (PointerFile);
   return 0;
 }
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
